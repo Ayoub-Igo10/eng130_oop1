@@ -70,25 +70,24 @@ print(math.floor(number)) # floor will help you round down
 # print(math.ceil(number)) # ceil will help you round up
 # print(math.floor(number)) # floor will help you round down
 ```
-
-Explanation:
+# Explanation:
 
 ```commandline
 # Don't Repeat Yourself (DRY)
-# reusable - saves time - saves effort - saves money
-# let's build some functions
-# # its part of your exam
+- reusable - saves time - saves effort - saves money
+- let's build some functions
+- its part of the exam
 # # syntax def name(): - def name() - daf name(): - def name:
 # def greeting():
-#     # greet the user
-#     print("Hello Dear")
-#
-# #   pass
-# #     #keyword called pass
-# # #unless the function is called it does nothing
+# greet the user
+```
+```python
+print("Hello Dear")
+# pass
+# keyword called pass
+#  #unless the function is called it does nothing
 # greeting()
 ```
-
 
 
 # Addition / Greeting User
